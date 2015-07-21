@@ -1,0 +1,6 @@
+.classpath
+.project
+.settings/
+/target/
+springws-ex/target/*
+jaxb-spec/target/*
